@@ -4,6 +4,8 @@ I had to change the name of this keyboard into an 8 character string altgrweu an
 
 Dead_greek doesn't work, so that is why altgr OEM_5 and altgr OEM_102 show up as empty.
 
+This is version v19 by Adriaan.
+
 ![AltGrg](AltGr.jpg)
 
 ![Shift+AltGr](ShiftAltGr.jpg)
